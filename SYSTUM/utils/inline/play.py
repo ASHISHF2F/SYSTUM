@@ -72,7 +72,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="ᴏᴡɴᴇʀ", url="https://t.me/EROXXXR",
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/BRANDED_WORLD",
+                text="ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/FRIENDS2FAMILY00",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -94,7 +94,7 @@ def stream_markup(_, chat_id):
                 text="ᴏᴡɴᴇʀ", url="https://t.me/EROXXXR",
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/BRANDED_WORLD",
+                text="ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/FRIENDS2FAMILY00",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
